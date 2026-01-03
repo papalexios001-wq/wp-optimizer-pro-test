@@ -1,0 +1,10 @@
+{
+  "name": "WP Optimizer Pro v22.47 Enterprise",
+  "version": "22.0.0",
+  "description": "Enterprise SOTA SEO/GEO/AEO Content Orchestration Engine with Autonomous Self-Improving AI, Triple-Threat Optimization, and Maximum AI Visibility",
+  "author": "WP Optimizer Team",
+  "license": "MIT",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
